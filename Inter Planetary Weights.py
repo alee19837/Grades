@@ -1,4 +1,4 @@
-#Lee, Adam
+#Adam
 #Inter Planetary Weights Code
 
 #Named Constant
