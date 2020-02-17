@@ -14,8 +14,8 @@ fPLUTO = 0.066
 
 
 #User info (Input)
-pName = input('What is your name? ')
-pWeight = float(input('What is your weight on Earth? '))
+pName = input( 'What is your name? ')
+pWeight = float( input('What is your weight on Earth? '))
 
 # Compute
 # Weight = Earth Weight * Surface Gravity Factor
