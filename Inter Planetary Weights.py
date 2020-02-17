@@ -26,8 +26,8 @@ nMars = pWeight * fMARS
 nJupiter = pWeight * fJUPITER
 nSaturn = pWeight * fSATURN
 nUranus = pWeight * fURANUS
-nNeptune = pWeight *fNEPTUNE
-nPluto = pWeight *fPLUTO
+nNeptune = pWeight * fNEPTUNE
+nPluto = pWeight * fPLUTO
 
 
 #Output to screen
