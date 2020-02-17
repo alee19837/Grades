@@ -18,7 +18,7 @@ pName = input('What is your name? ')
 pWeight = float(input('What is your weight on Earth? '))
 
 # Compute
-# Weight = Earth Weight x Surface Gravity Factor
+# Weight = Earth Weight * Surface Gravity Factor
 nMercury = pWeight * fMERCURY
 nVenus = pWeight * fVENUS
 nMoon = pWeight * fMOON
@@ -26,8 +26,8 @@ nMars = pWeight * fMARS
 nJupiter = pWeight * fJUPITER
 nSaturn = pWeight * fSATURN
 nUranus = pWeight * fURANUS
-nNeptune = pWeight *fNEPTUNE
-nPluto = pWeight *fPLUTO
+nNeptune = pWeight * fNEPTUNE
+nPluto = pWeight * fPLUTO
 
 
 #Output to screen
